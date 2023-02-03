@@ -16,11 +16,11 @@ You must have redis installed and running on the default port:6379 (or configure
 ### Installing Redis
 
 ##### On Linux
-* `wget http://download.redis.io/redis-stable.tar.gz`
-* `tar xvzf redis-stable.tar.gz`
-* `cd redis-stable`
-* `make`
-* `make install`
+1 `wget http://download.redis.io/redis-stable.tar.gz`
+2 `tar xvzf redis-stable.tar.gz`
+3 `cd redis-stable`
+4 `make`
+5 `make install`
 
 ##### On Mac
 * `brew install redis`
